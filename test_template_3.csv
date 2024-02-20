@@ -1,0 +1,6 @@
+﻿Test Cases,Expected Behaviour
+"Please Enter this username and password-  Username: sachindra.singh2@gartner.com, Password:Vab@220517. Are you able to log in?. Answer in Yes/No",Yes/ No
+Are you able to see the 'HR Spend & Staffing Allocation section'?. Answer in Yes/No,Yes/ No
+ Click on 'HR Spend & Staffing Allocation' section and show the response. Are you able to see the graph chart?. Answer in Yes/No ,Yes/ No
+Change the 'Year' value to 2021 and show the response. Are you able to do that? (Answer in Yes/No) ,Yes/ No
+Change the 'Industry' value to 'Consumer Products' and show the response. Are you able to do that? (Answer in Yes/No),Yes/ No
